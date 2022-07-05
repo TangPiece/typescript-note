@@ -1,4 +1,4 @@
-// 类型别名继承（合并），类似 interface的extends
+// 类型别名继承（合并 、扩展），类似 interface的extends
 type PartialPointX = { x: number; };
 type Point = PartialPointX & { y: number; };
 
@@ -12,3 +12,4 @@ const test: DudeType = {
   firstname: "Pawel",
   surname: "Grzybek"
 }
+
