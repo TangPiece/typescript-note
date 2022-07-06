@@ -8,8 +8,8 @@ interface Add {
 
 let add: Add = (arg1, arg2, arg3 = 0) => arg1 + arg2 + arg3;
 
-add(1, 2);   
-add(1, 2, 3); 
+add(1, 2);
+add(1, 2, 3);
 
 
 
