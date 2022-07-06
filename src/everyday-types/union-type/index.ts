@@ -41,3 +41,5 @@ function welcomePeople(x: string[] | string) {
 function getFirstThree(x: number[] | string) {
   return x.slice(0, 3);
 }
+
+//test
