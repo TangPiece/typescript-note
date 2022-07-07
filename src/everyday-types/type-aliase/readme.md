@@ -19,3 +19,10 @@
 - 两者都可以实现继承
 
 #### 总的来说，公共的用 interface 实现，不能用 interface 实现的再用 type 实现。主要是一个项目最好保持一致。
+
+***
+
+类型别名、字面量、联合类型
+```
+type Size = 'small' | 'middle' | 'large'
+```
