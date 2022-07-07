@@ -2,6 +2,8 @@
  * 类型断言 as
  */
 
+
+// eg1
 interface Animal {
   name: string;
 }
@@ -50,3 +52,13 @@ interface Cat {
 // let tom: Cat = animal;
 
 
+
+
+// eg2
+
+declare function handleRequest(url: string, method: "GET" | "POST"): void;
+
+const req = { url: "https://example.com", method: "GET" } as const;
+//as const 效果跟 const 类似，但是对类型系统而言，它可以确保所有的属性都被赋予一个字面量类型，而不是一个更通用的类型比如 string 或者 number 
+
+handleRequest(req.url, req.method);
