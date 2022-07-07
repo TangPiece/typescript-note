@@ -1,0 +1,1 @@
+在 TypeScript 中，可以用 void 表示没有任何返回值的函数
