@@ -1,3 +1,7 @@
+/**
+ * 类型断言 as
+ */
+
 interface Animal {
   name: string;
 }

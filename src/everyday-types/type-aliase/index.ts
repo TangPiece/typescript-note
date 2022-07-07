@@ -1,3 +1,7 @@
+/**
+ * 类型别名 type
+ */
+
 // 类型别名继承（合并 、扩展），类似 interface的extends
 type PartialPointX = { x: number; };
 type Point = PartialPointX & { y: number; };
@@ -13,3 +17,6 @@ const test: DudeType = {
   surname: "Grzybek"
 }
 
+
+/** boolean值的定义 */
+type booleanType = true | false
