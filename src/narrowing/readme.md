@@ -26,7 +26,7 @@ ts会根据赋的值类型推断出具体类型
 
 
 ### 可辨别联合
-将一下枚举属性
+将以下枚举属性
 ```
 interface Shape {
   kind: "circle" | "square";
