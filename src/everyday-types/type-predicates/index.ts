@@ -45,11 +45,15 @@ const target:interfaceA | interfaceB  = arr3[0];
 // 自定义类型保护函数
 const isInterfaceA = (item: interfaceA | interfaceB): item is interfaceA => {
   return (item as interfaceA).age !== undefined;
+  // return "age" in item
 };
 
 // 判断target 属于哪个类型
-if (isInterfaceA(target)) {
-  console.log(target.age); //target的类型为interfaceA
-} else {
-  console.log(target.phone); //target的类型为interfaceB
-}
+  if (isInterfaceA(target)) {
+    console.log(target.age); //target的类型为interfaceA
+  } else {
+    console.log(target.phone); //target的类型为interfaceB
+  }
+  
+
+

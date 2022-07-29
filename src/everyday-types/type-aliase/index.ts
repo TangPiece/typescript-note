@@ -20,3 +20,10 @@ const test: DudeType = {
 
 /** boolean值的定义 */
 type booleanType = true | false
+
+
+
+
+
+
+
