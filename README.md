@@ -19,23 +19,23 @@
 15. [类（下）](https://ts.yayujs.com/handbook/Class.html)@王婷梅
 16. [模块 ](https://ts.yayujs.com/handbook/Modules.html)@罗晓庆
 
-## 进阶
-1. [工具类型](https://ts.yayujs.com/reference/UtilityTypes.html) @汤荣进
-2. [装饰器](https://ts.yayujs.com/reference/Decorators.html) @徐博
-3. [声明合并](https://ts.yayujs.com/reference/DeclarationMerging.html) @姚刚
-4. [枚举类型](https://ts.yayujs.com/reference/Enums.html) @王婷梅
-5. [迭代器和生成器](https://ts.yayujs.com/reference/IteratorsAndGenerators.html) @汤荣进
-6. [JSX](https://ts.yayujs.com/reference/JSX.html) @罗晓庆
-7. [Mixins](https://ts.yayujs.com/reference/Mixins.html) @徐博
+## 拓展
+1. [工具类型](https://ts.yayujs.com/reference/UtilityTypes.html) @汤荣进 *
+2. [装饰器](https://ts.yayujs.com/reference/Decorators.html) @徐博 *
+3. [声明合并](https://ts.yayujs.com/reference/DeclarationMerging.html) @姚刚 *
+4. [枚举类型](https://ts.yayujs.com/reference/Enums.html) @王婷梅 *
+5. [迭代器和生成器](https://ts.yayujs.com/reference/IteratorsAndGenerators.html) @汤荣进 *
+6. [JSX](https://ts.yayujs.com/reference/JSX.html) @罗晓庆 *
+7. [Mixins](https://ts.yayujs.com/reference/Mixins.html) @徐博 *
 8. [模块](https://ts.yayujs.com/reference/Modules.html) @姚刚
 9. [模块解析](https://ts.yayujs.com/reference/ModuleResolution.html) @王婷梅
 10. [命名空间](https://ts.yayujs.com/reference/Namespaces.html) @汤荣进
 11. [命名空间与模块](https://ts.yayujs.com/reference/NamespacesAndModules.html) @罗晓庆
 12. [Symbols](https://ts.yayujs.com/reference/Symbols.html) @徐博
 13. [三斜线指令](https://ts.yayujs.com/reference/Triple-SlashDirectives.html) @姚刚
-14. [类型兼容](https://ts.yayujs.com/reference/TypeCompatibility.html) @王婷梅
-15. [类型推断](https://ts.yayujs.com/reference/TypeInference.html) @汤荣进
-16. [变量声明](https://ts.yayujs.com/reference/VariableDeclaration.html) @罗晓庆
+14. [类型兼容](https://ts.yayujs.com/reference/TypeCompatibility.html) @王婷梅 *
+15. [类型推断](https://ts.yayujs.com/reference/TypeInference.html) @汤荣进 *
+16. [变量声明](https://ts.yayujs.com/reference/VariableDeclaration.html) @罗晓庆 *
 
 
 ## 参考文献
